@@ -74,15 +74,10 @@ std1220198/
 ├── dbschema_1220198.sql
 └── index.html
 
-<img width="959" height="440" alt="1" src="https://github.com/user-attachments/assets/183a4e9b-5a32-42da-b563-2efc13277168" />
-<img width="935" height="421" alt="2" src="https://github.com/user-attachments/assets/d7876225-afde-43a4-8ab3-88a151ca3ed5" />
-<img width="956" height="410" alt="3" src="https://github.com/user-attachments/assets/0295ca97-7f54-4343-94b8-1b00491f9744" />
-<img width="956" height="443" alt="4" src="https://github.com/user-attachments/assets/c050e60a-b6a2-4f46-819a-aa4b50dfc2eb" />
-<img width="952" height="441" alt="5" src="https://github.com/user-attachments/assets/09b73109-7a26-48c9-af50-8ac016809645" />
-<img width="950" height="413" alt="6" src="https://github.com/user-attachments/assets/fad489eb-db8e-415b-a43d-876767f0cfac" />
-<img width="950" height="443" alt="7" src="https://github.com/user-attachments/assets/e25a7e76-24d9-42ca-be18-d521cf761071" />
-<img width="953" height="415" alt="8" src="https://github.com/user-attachments/assets/b4412875-69ff-43d1-99cd-e7c3de7d226e" />
-<img width="959" height="437" alt="9" src="https://github.com/user-attachments/assets/3a5b441d-bd85-4268-ad2f-d17ca55f70a8" />
+<img width="935" height="421" alt="2" src="https://github.com/user-attachments/assets/9e3d5f1a-19d9-49ff-aefb-22cd2209d918" />
+<img width="959" height="440" alt="1" src="https://github.com/user-attachments/assets/eb491f77-2e19-466b-8c95-29843ad15dee" />
+<img width="956" height="443" alt="4" src="https://github.com/user-attachments/assets/8f580aea-b669-4817-9126-19b2340289ce" />
+
 
 
 
