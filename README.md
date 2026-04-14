@@ -1,6 +1,6 @@
 # Freelance Services Marketplace
 
-A database-driven web application that connects clients with freelancers offering services in different categories such as web development, graphic design, writing, and digital marketing. The project was built using **PHP, HTML, CSS, and MySQL** as required in the course specification. :contentReference[oaicite:0]{index=0}
+A database-driven web application that connects clients with freelancers offering services in different categories such as web development, graphic design, writing, and digital marketing. The project was built using **PHP, HTML, CSS, and MySQL** as required in the course specification.
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ This project simulates a freelance services platform where:
 - clients can browse services, add them to cart, and place orders
 - both clients and freelancers can manage orders and revisions
 
-The application follows a multi-page structure and uses server-side processing with PHP sessions and MySQL database integration. :contentReference[oaicite:1]{index=1}
+The application follows a multi-page structure and uses server-side processing with PHP sessions and MySQL database integration.
 
 ## Technologies Used
 
@@ -20,7 +20,7 @@ The application follows a multi-page structure and uses server-side processing w
 - MySQL
 - PDO for database connection and prepared statements
 
-The project requirements explicitly restrict implementation to HTML5, CSS, PHP, and MySQL, with frameworks prohibited. :contentReference[oaicite:2]{index=2}
+The project requirements explicitly restrict implementation to HTML5, CSS, PHP, and MySQL, with frameworks prohibited.
 
 ## Main Features
 
@@ -36,11 +36,11 @@ The project requirements explicitly restrict implementation to HTML5, CSS, PHP, 
 - Revision request handling
 - File attachments for requirements, deliverables, and revisions
 
-These use cases are listed in the requirements specification. :contentReference[oaicite:3]{index=3} :contentReference[oaicite:4]{index=4}
+These use cases are listed in the requirements specification.
 
 ## Database
 
-**Database name:** `freelance_marketplace` :contentReference[oaicite:5]{index=5}
+**Database name:** `freelance_marketplace`
 
 The database contains the main tables:
 - `users`
@@ -48,7 +48,7 @@ The database contains the main tables:
 - `services`
 - `orders`
 - `revision_requests`
-- `file_attachments` :contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}
+- `file_attachments`
 
 ## Project Structure
 
@@ -73,20 +73,3 @@ std1220198/
 ├── profile.php
 ├── dbschema_1220198.sql
 └── index.html
-
-<img width="935" height="421" alt="2" src="https://github.com/user-attachments/assets/9e3d5f1a-19d9-49ff-aefb-22cd2209d918" />
-
-<img width="959" height="440" alt="1" src="https://github.com/user-attachments/assets/eb491f77-2e19-466b-8c95-29843ad15dee" />
-
-<img width="956" height="443" alt="4" src="https://github.com/user-attachments/assets/8f580aea-b669-4817-9126-19b2340289ce" />
-
-
-
-
-
-
-
-
-
-
-
