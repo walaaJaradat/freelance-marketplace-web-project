@@ -72,8 +72,6 @@ std1220198/
 ├── edit-service.php
 ├── profile.php
 ├── dbschema_1220198.sql
-└── index.html
-<img width="959" height="440" alt="1" src="https://github.com/user-attachments/assets/2326df35-d40b-44cd-b034-e4364a66e7bc" />
-
-
-
+└── index.html<img width="956" height="410" alt="3" src="https://github.com/user-attachments/assets/03d50a17-d006-4dca-b6a4-c8194858827f" />
+<img width="935" height="421" alt="2" src="https://github.com/user-attachments/assets/27622d0e-f327-424e-bc59-6ed5d7b583c3" />
+<img width="959" height="440" alt="1" src="https://github.com/user-attachments/assets/2defc26b-3af2-4de0-a47e-69d73acbc2d2" />
