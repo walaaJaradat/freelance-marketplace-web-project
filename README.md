@@ -73,9 +73,7 @@ std1220198/
 ├── profile.php
 ├── dbschema_1220198.sql
 └── index.html
+<img width="959" height="440" alt="1" src="https://github.com/user-attachments/assets/2326df35-d40b-44cd-b034-e4364a66e7bc" />
 
-<img width="678" height="310" alt="image" src="https://github.com/user-attachments/assets/d47d0c34-2a45-4b65-8aed-89a28f1d42c2" />
 
-
-<img width="959" height="440" alt="1" src="https://github.com/user-attachments/assets/f3b29408-2445-436a-8b8a-0bb2109b17ab" />
 
